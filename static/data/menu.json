@@ -1,0 +1,99 @@
+{
+  "status":1,
+  "data":[
+    {
+      "KP": "General",
+      "VL": [
+        {
+          "className": "fa fa-home",
+          "title": "Home",
+          "subList": [
+            {
+              "url": "/main/home",
+              "title": "General Form"
+            },
+            {
+              "url": "/main/advance",
+              "title": "Advanced Components"
+            }
+          ]
+        },
+        {
+          "className": "fa fa-edit",
+          "title": "Forms",
+          "subList": [
+            {
+              "url": "index.html",
+              "title": "General Form"
+            }
+          ]
+        },
+        {
+          "className": "fa fa-desktop",
+          "title": " UI Elements ",
+          "subList": [
+            {
+              "url": "index.html",
+              "title": "General Form"
+            }
+          ]
+        },
+        {
+          "className": "fa fa-table",
+          "title": "Tables",
+          "subList": [
+            {
+              "url": "index.html",
+              "title": "General Form"
+            }
+          ]
+        },
+        {
+          "className": "fa fa-bar-chart-o",
+          "title": " Data Presentation ",
+          "subList": [
+            {
+              "url": "index.html",
+              "title": "General Form"
+            }
+          ]
+        }
+      ]
+    }, {
+      "KP": "Live On",
+      "VL": [
+        {
+          "className": "fa fa-bug",
+          "title": " Additional Pages",
+          "subList": [
+            {
+              "url": "index.html",
+              "title": "E-commerce"
+            }
+          ]
+        },
+        {
+          "className": "fa fa-windows",
+          "title": "Extras",
+          "subList": [
+            {
+              "url": "index.html",
+              "title": "404 Error"
+            }
+          ]
+        },
+        {
+          "className": "fa fa-laptop",
+          "title": "  Landing Page",
+          "subList": [
+            {
+              "url": "index.html",
+              "title": "Coming Soon"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+
+}
